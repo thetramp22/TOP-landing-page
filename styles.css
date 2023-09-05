@@ -51,7 +51,7 @@ header {
     color: #F9FAF8;
 }
 
-.hero-text-container button {
+.sign-up-btn {
     background-color: #3882F6;
     color:#F9FAF8;
     font-size: 18px;
@@ -59,6 +59,10 @@ header {
     border: none;
     padding: 8px 40px;
     border-radius: 8px;
+}
+
+.hero-text-container button {
+    
     margin: 12px 0;
 }
 
@@ -119,3 +123,33 @@ header {
     font-weight: bold;
     text-align: right;
 }
+
+.call-to-action {
+    padding: 100px 15%;
+}
+
+.call-container {
+    background-color: #3882F6;
+    border-radius: 5px;
+    display: flex;
+    padding: 50px 10%;
+    color: #F9FAF8;
+}
+
+.call-container div {
+    margin-right: auto;
+}
+
+.call-heading {
+    font-size: 24px;
+}
+
+.call-subtext {
+    font-size: 18px;
+}
+
+.call-container button {
+    border: 2px solid #F9FAF8;
+}
+
+
