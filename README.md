@@ -1,6 +1,8 @@
 # TOP-landing-page
 Landing page project for theodinproject Foundations course
 
+9/4/2023 - Start of project
+
 Assignment: https://www.theodinproject.com/lessons/foundations-landing-page
 
 Assignment Text:
@@ -23,3 +25,9 @@ Don’t forget to commit early & often! You can reference the Commit Message les
 
 6. When you finish, don’t forget to push it up to GitHub!
 ----------------------------------------------------------------------
+
+9/5/2023 - Project completed.
+
+This project was more difficult than I expected, but I'm glad I did it.  I thought I knew all of the css concepts used here, but found many times when thing didn't react the way I expected them to and had to experiment and research to get the right outcome.  I feel like this project really helped step away from "tutorial hell" for me with these concepts.
+
+I feel like my css could be cleaner and there are probably better ways to place some elements, but my page looks very close to the sample design and Im pretty happy with it.  Can't wait to learn more.
